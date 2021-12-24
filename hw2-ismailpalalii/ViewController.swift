@@ -53,8 +53,7 @@ class ViewController: UIViewController {
 //        }
 //    }
     
-    @IBAction func startButtonTapped(_ sender: UIButton) {
-    }
+    @IBAction func startButtonTapped(_ sender: UIButton) {}
     
 //    func send(myData: String) {
 //        delegateLabelText.text = "Delegate Example : \(myData)"
